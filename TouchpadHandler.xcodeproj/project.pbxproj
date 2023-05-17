@@ -11,6 +11,7 @@
 		CEA1F7732A13B4FB00A1EB70 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA1F7722A13B4FB00A1EB70 /* ContentView.swift */; };
 		CEA1F7752A13B4FC00A1EB70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEA1F7742A13B4FC00A1EB70 /* Assets.xcassets */; };
 		CEA1F7792A13B4FC00A1EB70 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEA1F7782A13B4FC00A1EB70 /* Preview Assets.xcassets */; };
+		CEA1F7802A13BBB900A1EB70 /* Protocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA1F77F2A13BBB900A1EB70 /* Protocol.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		CEA1F7742A13B4FC00A1EB70 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEA1F7762A13B4FC00A1EB70 /* TouchpadHandler.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TouchpadHandler.entitlements; sourceTree = "<group>"; };
 		CEA1F7782A13B4FC00A1EB70 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CEA1F77F2A13BBB900A1EB70 /* Protocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocol.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				CEA1F7702A13B4FB00A1EB70 /* TouchpadHandlerApp.swift */,
 				CEA1F7722A13B4FB00A1EB70 /* ContentView.swift */,
+				CEA1F77F2A13BBB900A1EB70 /* Protocol.swift */,
 				CEA1F7742A13B4FC00A1EB70 /* Assets.xcassets */,
 				CEA1F7762A13B4FC00A1EB70 /* TouchpadHandler.entitlements */,
 				CEA1F7772A13B4FC00A1EB70 /* Preview Content */,
@@ -141,6 +144,7 @@
 			files = (
 				CEA1F7732A13B4FB00A1EB70 /* ContentView.swift in Sources */,
 				CEA1F7712A13B4FB00A1EB70 /* TouchpadHandlerApp.swift in Sources */,
+				CEA1F7802A13BBB900A1EB70 /* Protocol.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
